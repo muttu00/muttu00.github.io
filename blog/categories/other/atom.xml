@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ぶた的なアプリの日記]]></title>
-  <link href="http://muttu00.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: other | ぶた的なアプリの日記]]></title>
+  <link href="http://muttu00.github.io/blog/categories/other/atom.xml" rel="self"/>
   <link href="http://muttu00.github.io/"/>
   <updated>2014-10-07T00:08:46+09:00</updated>
   <id>http://muttu00.github.io/</id>
