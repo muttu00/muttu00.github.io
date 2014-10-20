@@ -4,7 +4,7 @@
   <title><![CDATA[ぶた的なアプリの日記]]></title>
   <link href="http://muttu00.github.io/atom.xml" rel="self"/>
   <link href="http://muttu00.github.io/"/>
-  <updated>2014-10-07T00:08:46+09:00</updated>
+  <updated>2014-10-20T22:28:52+09:00</updated>
   <id>http://muttu00.github.io/</id>
   <author>
     <name><![CDATA[Yuuki Endo]]></name>
@@ -18,8 +18,9 @@
     <link href="http://muttu00.github.io/blog/2014/10/06/title/"/>
     <updated>2014-10-06T23:38:00+09:00</updated>
     <id>http://muttu00.github.io/blog/2014/10/06/title</id>
-    <content type="html"><![CDATA[<p>適当なブログというかメモを書いていきます。
-主にはiOSのプログラミングになると思われる。
+    <content type="html"><![CDATA[<p>適当なブログというかメモを書いていきます。</p>
+
+<p>主にはiOSのプログラミングになると思われる。<br/>
 まだまるでMarkdownなどを使っていません、わかりません。。</p>
 ]]></content>
   </entry>
