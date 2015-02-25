@@ -4,7 +4,7 @@
   <title><![CDATA[ぶた的なアプリの日記]]></title>
   <link href="http://muttu00.github.io/atom.xml" rel="self"/>
   <link href="http://muttu00.github.io/"/>
-  <updated>2014-10-20T22:28:52+09:00</updated>
+  <updated>2015-02-25T20:27:07+09:00</updated>
   <id>http://muttu00.github.io/</id>
   <author>
     <name><![CDATA[Yuuki Endo]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ぶたアプリリリース！！]]></title>
+    <link href="http://muttu00.github.io/blog/2015/02/25/title/"/>
+    <updated>2015-02-25T20:19:30+09:00</updated>
+    <id>http://muttu00.github.io/blog/2015/02/25/title</id>
+    <content type="html"><![CDATA[<p>とても長い時間がかかりましたが、ついにアプリをリリースしました！</p>
+
+<p>だらだらと製作すること１年以上&hellip;</p>
+
+<p>バグがでませんように(-人-)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ブログの最初]]></title>
